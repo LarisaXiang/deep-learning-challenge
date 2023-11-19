@@ -15,9 +15,9 @@ Model Architecture: The optimised model comprised three hidden layers with 80, 4
 Performance: The highest achieved accuracy was approximately 73.06% on the test set, falling short of the desired 75% target.
 
 ## Improvement Strategies:
-Increased neuron counts and added batch normalization for better learning.
-Used dropout to reduce overfitting.
-Switched from SGD to Adam optimizer for better optimization.
+- Increased neuron counts and added batch normalization for better learning.
+- Used dropout to reduce overfitting.
+- Switched from SGD to Adam optimizer for better optimization.
 
 ## Summary and Recommendations
 The developed deep learning model demonstrated moderate success, with an accuracy of about 73.06%, in predicting the effective use of funds by organizations. While it shows potential, there's room for improvement to meet the desired accuracy target of 75%.
